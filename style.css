@@ -1,0 +1,91 @@
+*{
+margin: 0px;
+padding: 0px;
+
+}
+
+
+body{
+background-image: url(img/bg.jpg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+.contanier{
+width: 60%;
+margin: 20% auto;
+
+}
+
+.login-section{
+    background-color: #1c140c6e;
+    padding: 20%;
+}
+
+
+
+.login-section img{
+
+    width: 150px;
+    margin: 0 auto;
+    display: block;
+}
+
+
+.login-section h2{
+text-align: center;
+color: #fff;
+font-size: 37px;
+text-transform: uppercase;
+margin: 10px 0px;
+
+
+}
+
+.one{
+
+    width: 100%;
+    height: 28px;
+    padding: 5px;
+    margin-bottom: 10px;
+}
+
+
+
+.button{
+
+    margin: 0 auto;
+    display: block;
+    background-color: #1e46e1e0;
+    text-transform: uppercase;
+    padding: 10px 40px;
+    font-size: 21px;
+    color: #fff;
+    transition: 0.7s;
+    -webkit-transition: 0.7s;
+    -moz-transition: 0.7s;
+    -o-transition: 0.7s;
+}
+
+.button:hover{
+	box-shadow: 2px 4px 6px aliceblue;
+	cursor: pointer;
+}
+.two{
+    color: beige;
+text-align: right;
+display: block;
+font-size: 15px;
+text-transform: uppercase;
+}
+.three{font-size: 15px;
+text-transform: uppercase;
+color: beige;
+text-align: right;
+display: block;
+
+
+}
+register.html{
+    background-image: url(img/bg2.jpg);
+}
